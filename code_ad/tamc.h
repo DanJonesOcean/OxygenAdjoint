@@ -64,9 +64,9 @@ c -- I/O heavy strategy --
       integer    nchklev_1
       parameter( nchklev_1      =   10 )
       integer    nchklev_2
-      parameter( nchklev_2      =   30 )
+      parameter( nchklev_2      =   61 )
       integer    nchklev_3
-      parameter( nchklev_3      =   30 )
+      parameter( nchklev_3      =   61 )
 
 c -- I/O light strategy (this seems to crash; still too big)
 c     integer    nchklev_1
